@@ -112,5 +112,5 @@ func main() {
 		}
 	}
 
-	log.Println("Sum is: ", sum)
+	log.Println("Sum of all part numbers is: ", sum)
 }
